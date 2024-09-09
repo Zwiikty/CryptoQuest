@@ -1,7 +1,7 @@
 from pathlib import Path
 from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path(r"E:\0001\Subject\ENGCE110\termproject\build\assets\frame0")
+ASSETS_PATH = OUTPUT_PATH / Path(r"\assets")
 
 def op_en():
     from fucntion_en_de import openfile_encryption
