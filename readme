@@ -1,2 +1,5 @@
 This is my termproject in Computer and Data Security 2024
 use ai gen and adjust by myself
+pip install pycryptodome
+pip install pillow
+and use tkdesigner :https://github.com/ParthJadhav/Tkinter-Designer 
